@@ -1119,6 +1119,11 @@ https://www.linkedin.com/company/orbitaxbd/[LinkedIn]
 |JavaScript, HTML, CSS, React, Node, AWS
 |https://www.wundermanthompson.com/[Website]
 
+|Top 10 Software Company
+|Bangladesh
+|JavaScript, HTML, CSS, React, Node, AWS
+|https://www.technicalcarebd.com/2021/10/top-10-software-company-in-bangladesh.html[Website]
+
 |===
 
 {nbsp} +
